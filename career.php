@@ -56,28 +56,24 @@ http://www.tooplate.com/view/2075-digital-team
 		</div>
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#home" class="smoothScroll">HOME</a></li>
-				<li><a href="#work" class="smoothScroll">HOW IT WORKS</a></li>
-                <li><a href="career.php#work" class="smoothScroll">CAREER</a></li>
-                <li><a href="#contact" class="smoothScroll">CONTACT</a></li>
+				<li><a href="index.html#home" >HOME</a></li>
+				<li><a href="index.html#work" >HOW IT WORKS</a></li>
+                <li><a href="career.php" >CAREER</a></li>
+                <li><a href="index.html#contact" >CONTACT</a></li>
 			</ul>
 		</div>
 	</div>
 </section>
 
 <!-- home section -->
-<section id="home">
+<section id="career">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<h3>Your Technical IT Recruiting Team.</h3>
-				<h1>THINK DIGITAL</h1>
-				<hr>
-				<a href="#work" class="smoothScroll btn btn-danger">How it works</a>
-				<a href="#contact" class="smoothScroll btn btn-default">Talk to us</a>
-			</div>
+				<a href="#work" class="smoothScroll btn btn-danger">Current Openings</a>
+ 			</div>
 		</div>
-	</div>		
+	</div>
 </section>
 
 <!-- work section -->

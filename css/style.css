@@ -316,7 +316,58 @@ home section
 	background: transparent;
   	color: #ffffff;
 }
-
+/* ==========================================================================
+Career section
+========================================================================== */
+#career {
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+#career h1 {
+    font-size: 40px;
+}
+#career h3 {
+    font-size: 14px;
+}
+#career hr {
+    width: 240px;
+}
+#career .btn {
+    background: transparent;
+    border: 4px solid #ffffff;
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 12px 42px;
+    margin-top: 40px;
+    margin-right: 16px;
+    transition: all 0.4s ease-in-out;
+}
+#career .btn:hover {
+    background: #00c6d7;
+    border-color: transparent;
+}
+#career .btn-danger {
+    background: #00c6d7;
+    border-color: transparent;
+}
+#career .btn-danger:hover {
+    border: 4px solid #ffffff;
+    border-radius: 0;
+    background: transparent;
+    color: #ffffff;
+}
 /* ==========================================================================
 work section
 ========================================================================== */
