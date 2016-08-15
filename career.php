@@ -87,42 +87,7 @@ http://www.tooplate.com/view/2075-digital-team
 					<hr>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s">
-				<i class="icon-cloud medium-icon"></i>
-					<h3>Technical Phone Interview</h3>
-					<hr>
-					<p>At very first step we will conduct a 30 mins technical interview based on job description.</p>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.9s">
-				<i class="icon-mobile medium-icon"></i>
-					<h3>Coding Challenge</h3>
-					<hr>
-					<p>If the candidate pass through the first step then we gave them coding challenge which includes but not limited to Small Project, mobile app, analytical question etc.</p>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="1s">
-				<i class="icon-laptop medium-icon"></i>
-					<h3>Code Review</h3>
-					<hr>
-					<p>Our IT expert thoroughly review the code submitted by candidate. They provide score based on accuracy, efficiency and coding standard. We also discuss with the coder to learn more about their thought. </p> 
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="1s">
-				<i class="icon-compass medium-icon"></i>
-					<h3>Project Review</h3>
-					<hr>
-					<p>We review past project that candidate worked on including any contribution to open source project. Discuss with candidate about theier coding methodology</p>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="1s">
-				<i class="icon-chat medium-icon"></i>
-					<h3>Physical interview</h3>
-					<hr>
-					<p>If the candidate score satisfactory result then we will send the candidate for in person interview with the hiring company.</p>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="1s">
-				<i class="icon-browser medium-icon"></i>
-					<h3>Hire with Confident</h3>
-					<hr>
-					<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteu sunt in culpa qui officia.</p>
-			</div>
+
 		</div>
 	</div>
 </section>
