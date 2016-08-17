@@ -58,7 +58,7 @@ http://www.tooplate.com/view/2075-digital-team
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="index.html#home" >HOME</a></li>
 				<li><a href="index.html#work" >HOW IT WORKS</a></li>
-                <li><a href="career.php" >CAREER</a></li>
+                <li><a href="career.php#career" >CAREER</a></li>
                 <li><a href="index.html#contact" >CONTACT</a></li>
 			</ul>
 		</div>
@@ -66,31 +66,33 @@ http://www.tooplate.com/view/2075-digital-team
 </section>
 
 <!-- home section -->
-<section id="career">
+<section id="home">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<a href="#work" class="smoothScroll btn btn-danger">Current Openings</a>
+				<a href="#career" class="smoothScroll btn btn-danger">Current Openings</a>
  			</div>
 		</div>
 	</div>
 </section>
 
 <!-- work section -->
-<section id="work">
+<section id="career">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 col-sm-12">
-				<div class="section-title">
-					<strong></strong>
-					<h1 class="heading bold">HOW IT WORKS</h1>
-					<hr>
-				</div>
-			</div>
-
-		</div>
+ 			<p class="heading bold">Full Stack Developer</p>
+ 			<p class=" bold">Full Stack Developer</p>
+ 		</div>
+		<div class="row">
+ 			<p class="heading bold">PHP Web Developer</p>
+ 			<p class=" bold">PHP Web Developer</p>
+ 		</div>
+ 		<div class="row">
+ 			<p class="heading bold">Frontend Developer</p>
+ 			<p class=" bold">Frontend Developer</p>
+ 		</div>
 	</div>
-</section>
+ </section>
 
 <!-- contact section -->
 <section id="contact">
