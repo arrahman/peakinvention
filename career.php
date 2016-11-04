@@ -77,22 +77,45 @@ http://www.tooplate.com/view/2075-digital-team
 </section>
 
 <!-- work section -->
+<!-- work section -->
 <section id="career">
 	<div class="container">
-		<div class="row">
+		<div class="row" style = "padding: 10px">
  			<p class="heading bold">Full Stack Developer</p>
- 			<p class=" bold">Full Stack Developer</p>
+ 			<ul>
+				<li>Solid experience with of Object Oriented Programming (PHP)</li>
+				<li>Strong understanding of Modern Web Application Technologies(i.e. Angular, React, Node.js, JSON, and AJAX)</li>
+				<li>Strong understanding of Modern Web Framework(i.e. Laravel, Symphony etc.)</li>
+ 				<li>Good understanding of SQL Query and Relational Database (i.e. MySql, PostGreSQL)</li>
+				<li>Working experience in Linux/UNIX environment</li>
+			</ul>
  		</div>
-		<div class="row">
+ 		<div class="row" style = "padding: 12px">
  			<p class="heading bold">PHP Web Developer</p>
- 			<p class=" bold">PHP Web Developer</p>
+			<ul>
+				<li>Strong understanding of Object Oriented PHP</li>
+				<li>Strong understanding of Modern PHP Framework(i.e. Laravel, Symphony etc.)</li>
+				<li>Working experience with Javascript library (i.e. jQuery, React etc)</li>
+				<li>Good understanding of SQL Query and Relational Database (i.e. MySql, PostGreSQL)</li>
+				<li>Working experience in Linux/UNIX environment</li>
+			</ul>
  		</div>
- 		<div class="row">
+ 		<div class="row" style = "padding: 12px">
  			<p class="heading bold">Frontend Developer</p>
- 			<p class=" bold">Frontend Developer</p>
+			<ul>
+				<li>Strong understanding of Modern Web Application Technologies(i.e. Angular, React, Node.js, JSON, and AJAX)</li>
+				<li>Solid knowledge on HTML5, CSS3 and Bootstrap</li>
+				<li>Strong understanding of Modern PHP Framework(i.e. Laravel, Symphony etc.)</li>
+				<li>Working experience with Javascript library (i.e. jQuery etc)</li>
+				<li>Good Understanding on Responsive design and Mobile UI</li>
+  			</ul>
  		</div>
+        <div class="row" style = "padding: 12px">
+        Send your resume at career@peakinvention.com
+        </div>
 	</div>
  </section>
+
 
 <!-- contact section -->
 <section id="contact">
