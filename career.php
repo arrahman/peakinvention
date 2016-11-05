@@ -70,7 +70,9 @@ http://www.tooplate.com/view/2075-digital-team
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<a href="#career" class="smoothScroll btn btn-danger">Current Openings</a>
+				<a href="index.html#work" class="smoothScroll btn btn-danger">How it works</a>
+				<a href="career.php#career" class="smoothScroll btn btn-default">Career</a>
+				<a href="index.html#contact" class="smoothScroll btn btn-default">Talk to us</a>
  			</div>
 		</div>
 	</div>
